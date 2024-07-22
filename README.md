@@ -23,6 +23,7 @@ PYSQL é uma aplicação simples de gerenciamento de clientes construída em Pyt
 Opcional
 python -m venv venv
 source venv/bin/activate  # Linux ou macOS
+
 .\venv\Scripts\activate  # Windows
 
 
